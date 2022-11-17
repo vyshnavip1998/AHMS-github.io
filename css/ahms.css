@@ -1,0 +1,25 @@
+.box
+{
+	//background: rgb(236, 240, 241,0.8);
+	background: rgb(31, 97, 141 ,0.5);
+	padding: 50px;
+	width:800px;
+	height: 350px;
+	color: #E74C3C;
+	margin-left:40%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	border-radius:12px;
+	top:57%;		
+}
+.text
+{
+	text-allign:left;
+	font-size:30px;
+	color:rgb(23, 32, 42);
+	font-family:serif;
+	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
